@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-03-28 12:09:54 UTC",
+  "keyword_rows": 21630,
+  "rows_scored": 21630,
+  "rows_remaining": 0,
+  "stopped_early": false,
+  "vision_yes": 8439,
+  "vision_no": 13189,
+  "vision_skip": 0,
+  "vision_error": 2,
+  "rejection_rate_no": 0.6097549699491447,
+  "backend": "openclip",
+  "model": "ViT-B-32",
+  "dry_run": false,
+  "errors_during_run": 2
+}

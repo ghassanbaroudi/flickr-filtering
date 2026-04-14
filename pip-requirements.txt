@@ -1,0 +1,11 @@
+flickr_api
+python-dotenv
+flickrapi
+pandas
+ipykernel
+jupyter
+plotly
+numpy
+streamlit
+folium
+streamlit-folium
